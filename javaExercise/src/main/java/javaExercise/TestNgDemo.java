@@ -8,6 +8,7 @@ public class TestNgDemo {
 	public void launchGoogle()
 	{
 		System.out.println("Launched Google");
+		System.out.println("Launched Apple site");
 	}
 
 }
